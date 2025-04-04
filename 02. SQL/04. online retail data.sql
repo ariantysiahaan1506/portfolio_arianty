@@ -16,5 +16,3 @@ case
 from 
 online_retail or2
 order by "InvoiceDate" DESC;
-
---data source: https://www.kaggle.com/datasets/thedevastator/online-retail-transaction-data/data  
